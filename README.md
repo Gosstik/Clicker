@@ -10,4 +10,6 @@ python3 ./main.py
 ```
 
 ## Gameplay 
-Press the "space" key and get points for this, increasing the score. To increase the score more quickly, you can buy bonuses such as auto-clicker and "Boost score per click" (increase the number of points per click).
+Press the "space" key and get points, increasing your score and level. To get points more quickly, you can buy bonuses such as ```auto-clicker```, ```Boost score per click```, ```Number of coins per click``` and ```Double speed of autoclicker```.
+
+**Enjoy the game!**

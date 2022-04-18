@@ -5,7 +5,7 @@ class Window:
     wind: tk.Tk
     width_screen: int
     height_screen: int
-    size_of_text: int  # must depend on the resolution of the monitor
+    size_of_text: int
 
     def __init__(self):
         self.wind = tk.Tk()

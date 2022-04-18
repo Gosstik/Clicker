@@ -13,4 +13,9 @@ mylabels.update_image()
 
 window.wind.mainloop()
 
+if mylabels.highest_score == mylabels.score:
+    file = open('highest score', 'w')
+    file.write(str(mylabels.highest_score))
+    file.close()
+
 os.system('xset r on')

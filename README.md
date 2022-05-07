@@ -2,15 +2,6 @@
 Open terminal and write the following commands:
 ```
 pip install -r requirements.txt
-sudo apt-get update
-sudo apt -y upgrade
-sudo apt-get install -y python3-tk
-sudo apt-get install python3-pip
-python3 -m pip install --user --upgrade Pillow
-python3 -m pip install --user --upgrade pygame
-git clone git@github.com:Gostik007/Clicker.git
-cd Clicker
-python3 ./main.py
 ```
 
 ## Gameplay 

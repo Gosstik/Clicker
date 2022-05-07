@@ -6,6 +6,7 @@ import buttons as butt
 os.system('xset r off')
 
 window = win.Window()
+
 mylabels = lab.MyLabels(window)
 buttons = butt.Buttons(window, mylabels)
 

@@ -1,7 +1,7 @@
 import os
-import window as win
-import labels as lab
-import buttons as butt
+import src.window as win
+import src.labels as lab
+import src.buttons as butt
 
 os.system('xset r off')
 

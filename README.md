@@ -1,7 +1,14 @@
 ## Installation instructions for linux
 Open terminal and write the following commands:
 ```
+sudo apt-get update
+sudo apt -y upgrade
+sudo apt-get install -y python3-tk
+sudo apt-get install -y python3-pip
 pip install -r requirements.txt
+git clone git@github.com:Gostik007/Clicker.git
+cd Clicker
+python3 ./main.py
 ```
 
 ## Gameplay 
